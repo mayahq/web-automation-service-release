@@ -1,1 +1,1 @@
-# web-automation-service-release v1.1.0
+# web-automation-service-release v1.3.0
